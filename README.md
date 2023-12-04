@@ -1,7 +1,7 @@
 # Hospitality-Domain-Insights
 Live Dashboard : [Hospitality Revenue Insights](https://app.powerbi.com/view?r=eyJrIjoiN2YzNTdiNTgtYzZjZS00Yzk1LTgzZDAtNGYzYzczNmY4YmE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Challenge Description : [Task and datasets] (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Challenge Description : [Task and datasets](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Problem Statement
 AtliQ Grands, a leading player in the Indian hospitality industry for two decades, has been experiencing a decline in market share and revenue within its luxury hotels. This decline is attributed to competitor moves and management decisions. To counter these challenges, the managing director has decided to integrate "Business and Data Intelligence." In the absence of an in-house analytics team, the decision was made to hire a third-party to extract insights from historical data. The primary goal is to revitalize AtliQ Grands' market presence and revenue.
